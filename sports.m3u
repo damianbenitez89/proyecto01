@@ -1,21 +1,14 @@
 #EXTM3U
 
-
-#EXTINF:-1,TYC Sport
-
-https://ch01-04-11-tyc.vodgc.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index_11.m3u8
-
-#EXTINF:-1,TYC Sport 2
-
 https://x4bnd7lq.fubohd.com/tycsports/mono.m3u8?token=c4e75a239da6544984017fe69530085aad50f342-a-1748810941-1748792941
 
 #EXTINF:-1,ESPN PREMIUM
 
-https://agvyby.fubohd.com/espnpremium/mono.m3u8?token=d51ffc82da9b9f07207681d2b22e8ed7a39dc6f6-f8-1748800659-1748782659
+https://x4bnd7lq.fubohd.com/espn/mono.m3u8?token=e48b418b7d52beff26ad24802c4bfba9269b8043-5b-1755483600-1755465600
 
 #EXTINF:-1,ESPN PREMIUM 2
 
-https://ym9yzq.fubohd.com/espnpremium/mono.m3u8?token=24f73665590f68ed34e016ee8c5ed027a0b8b50e-95-1748810997-1748792997
+https://24a1.crackstreamslivehd.com/espn/tracks-v1a1/mono.m3u8?ip=181.26.209.158&token=afdc26818cf9d43c56a02c8240d3336fe3bccdbe-96-1755511777-1755457777
 
 #EXTINF:-1,TNT Sport
 
@@ -34,3 +27,4 @@ https://a2vlca.fubohd.com/disney11/mono.m3u8?token=d50ffbb4ce020a1f05222fd0ffb9d
 https://bgfuzq.fubohd.com/disney4/mono.m3u8?token=4de886acc28e995740170ddf934accd134d5b1d5-fd-1748811055-1748793055
 #EXTINF:-1 tvg-id="30AGolfKingdom.us" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="Sports",30A Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
+
