@@ -1,9 +1,16 @@
 #EXTM3U
-#EXTINF:-1,tnt DISNEY+
+#EXTINF:-1, DISNEY+
 https://8c51.streameasthd.net/disney7/tracks-v1a1/mono.m3u8?ip=181.26.238.210&token=4b2af0399a6d494f786965d4c9c7ccfdb274ccae-48-1776343421-1776289421
+#EXTINF:-1, DISNEY+ 2
+https://51a1.streameasthd.net/disney7/tracks-v1a1/mono.m3u8?ip=181.26.238.210&token=d7d5e9ce5662c5b5b3cfd959b9e74c6b81474bd3-00-1776347949-1776293949
+
+#EXTINF:-1,TNT sport fanatiz7
+https://pecdl1.streameasthd.net/global/fanatiz7/index.m3u8?token=991f1758b669a4181b1753cea2c48e2931f4d11b-07-1776344141-1776290141&ip=181.26.238.210
 #EXTINF:-1,ESPN PREMIUM 
 https://rm8zcvk3.fubohd.com/espn5/mono.m3u8?token=6d64312be3eaeb3304751e4b49b8982bb1107a93-14-1776315667-1776297667
-#EXTINF:-1,TNT sport PREMIUM
-https://pecdl1.streameasthd.net/global/fanatiz7/index.m3u8?token=991f1758b669a4181b1753cea2c48e2931f4d11b-07-1776344141-1776290141&ip=181.26.238.210
-#EXTINF:-1,TNT sport PREMIUM Op2
+#EXTINF:-1,TNT sport PREMIUM5 
 https://244pl.streamingtv339.com/espn5/index.m3u8?token=a18751027c8f4f75df01f07f260692c414425600-f0-1776344185-1776290185&ip=181.26.238.210
+#EXTINF:-1,TNT sport PREMIUM5 Op2
+https://244pl.streamingtv339.com/espn5/tracks-v1a1/mono.m3u8?ip=181.26.238.210&token=a46f8bec6759e0354dced4d9e23e12659b982419-d1-1776348244-1776294244
+#EXTINF:-1,TNT sport PREMIUM5 Op3
+https://n1.zohanayaan.com:1686/hls/espn5hd.m3u8?md5=fMsgvAoR9bXSwun9VYKMMA&expires=1776310527
